@@ -1,0 +1,11 @@
+# Core dependencies for the scraper pipeline
+httpx>=0.25.0
+pandas>=2.0.0
+selectolax>=0.3.0
+
+# Optional: browser fallback (Step 2)
+# playwright>=1.40.0
+# playwright-stealth>=1.0.0
+#
+# After installing playwright, run:
+#   playwright install chromium
